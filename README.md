@@ -424,3 +424,8 @@ Confusion Matrix
 Feature Importances
 ![download](https://github.com/madegde/Prediksi/assets/73327109/aba053cb-0612-4bbe-a271-ae9c6229aaa2)
 
+$$ Yi = {xi−μ(x⃗ )} \over σ(x⃗) $$
+
+#asd
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
