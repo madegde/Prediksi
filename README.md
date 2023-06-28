@@ -1,72 +1,70 @@
 # Prediksi
 Age Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/90490549-da74-4cef-8fdb-c6dbdaf796a2)
+![download](https://github.com/madegde/Prediksi/assets/73327109/6ad7ab08-92b5-4f97-a61a-de4ceca129e7)
+
 
 Age Box Plot
-![download](https://github.com/madegde/Prediksi/assets/73327109/2397c92a-5940-4862-93d8-e0ae136ca2e3)
+
 
 BMI Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/a425ca70-51d6-4df5-8491-9ac0847505bd)
+
 
 BMI Box Plot
-![download](https://github.com/madegde/Prediksi/assets/73327109/2c18dbe9-8caa-4c6b-83d4-d5bd7d5048d9)
+
 
 hbA1c Level Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/f6bf9778-0d8d-4f8f-9d1f-336ee62e9bc3)
+
 
 HbA1c_level Box Plot
-![download](https://github.com/madegde/Prediksi/assets/73327109/e73eb4a5-d906-4e67-b69f-fa83f5b1a63d)
+
 
 Blood Glucose Level Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/3561c6f6-bcfa-4c7e-be1d-065bca9e6607)
+
 
 Blood Glucose Level Box Plot
-![download](https://github.com/madegde/Prediksi/assets/73327109/cbed681f-3f21-4cfb-8ad3-f3d5b70b9f90)
+
 
 Gender Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/98188d5a-131f-472c-917a-fdc64b9442c2)
+
 
 Hypertension Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/ea1c98d1-9221-4058-a769-1fda4e70c15b)
+
 
 Heart Disease Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/ca39044c-a930-4859-89e4-b033a5e803e7)
+
 
 Smoking History Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/37363684-5053-4583-a08e-dc76be726e82)
+
 
 Diabetes Distribution
-![download](https://github.com/madegde/Prediksi/assets/73327109/887a7520-b30a-4a3c-9602-5db6e4cbb6e5)
+
 
 Diabetes and Age
-![download](https://github.com/madegde/Prediksi/assets/73327109/b33e9323-0a64-4e91-999d-85eafb37cf82)
+
 
 Diabetes and BMI
-![download](https://github.com/madegde/Prediksi/assets/73327109/0eb4fb22-0482-4e32-9d4d-fb6afa5fdabe)
+
 
 Diabetes and Gender
-![download](https://github.com/madegde/Prediksi/assets/73327109/6d429260-fa88-401b-b597-b5d749d422b4)
-![download](https://github.com/madegde/Prediksi/assets/73327109/6c72dd44-54c2-40ff-b0a0-5741473f96d8)
+
 
 Diabetes and HbA1c_level
-![download](https://github.com/madegde/Prediksi/assets/73327109/43ff14c2-b99a-422e-9632-0701953f0c97)
-![download](https://github.com/madegde/Prediksi/assets/73327109/486d5e59-2f00-4396-b498-015de3704e60)
+
 
 Diabetes and Blood Glucose Level
-![download](https://github.com/madegde/Prediksi/assets/73327109/291b9e97-7eb5-4958-91dc-51d00a3c149a)
-![download](https://github.com/madegde/Prediksi/assets/73327109/e2c473b0-7bcb-4c82-ae54-f993e3ecc52c)
+
 
 Pair Plot for Numeric Features
-![download](https://github.com/madegde/Prediksi/assets/73327109/f9f75e44-f57a-408e-a26f-018f05632a52)
+
 
 Diabetes, BMI, and Age
-![download](https://github.com/madegde/Prediksi/assets/73327109/a9d6661e-2158-4527-b0a0-40d54098dbe1)
+
 
 Correlation Matrix
-![download](https://github.com/madegde/Prediksi/assets/73327109/fc5f99a2-9f40-4c5a-9578-db22c43da390)
+
 
 Correlation with Diabetes
-![download](https://github.com/madegde/Prediksi/assets/73327109/48c18b73-eec1-4692-b4f3-fe8046ab152d)
+
 
 **StandardScaler Parameter**
 copy : bool, default=True
@@ -380,19 +378,19 @@ max_samples should be in the interval (0.0, 1.0].
 
 
 Plot accuracy score for each algorithm
-![download](https://github.com/madegde/Prediksi/assets/73327109/eacb14de-9d50-437f-bc0b-2487880f1250)
+
 
 Confusion Matrix RF
-![download](https://github.com/madegde/Prediksi/assets/73327109/55c867f4-58e9-4b8f-bc0d-a8b7bab2e4cd)
+
 
 Confusion Matrix XGB
-![download](https://github.com/madegde/Prediksi/assets/73327109/38b23aa1-6595-4087-b824-8fb101d0e9c3)
+
 
 Hyperparameters Tuning Results
-![download](https://github.com/madegde/Prediksi/assets/73327109/66d9155c-2783-4634-b16c-9798ed6e45aa)
+
 
 Confusion Matrix
-![download](https://github.com/madegde/Prediksi/assets/73327109/89a6db56-0d72-403c-a416-f23331a7f6ee)
+
 
 Feature Importances
-![download](https://github.com/madegde/Prediksi/assets/73327109/89f9ae0e-eb05-4953-8f53-a23cb50ce8f4)
+
