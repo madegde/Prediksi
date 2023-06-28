@@ -4,66 +4,90 @@ Age Distribution
 
 
 Age Box Plot
+![download](https://github.com/madegde/Prediksi/assets/73327109/b2f45fe1-3674-427d-9c9a-1c3fc7990c8f)
 
 
 BMI Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/db7a6037-dc3c-4021-8778-54c6d4731709)
 
 
 BMI Box Plot
+![download](https://github.com/madegde/Prediksi/assets/73327109/c89ee55e-83d4-43fa-85cf-9eaad30f94dd)
 
 
 hbA1c Level Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/c1ee9283-6ba7-4f6f-b0b7-cb99da8adf2a)
 
 
 HbA1c_level Box Plot
+![download](https://github.com/madegde/Prediksi/assets/73327109/08c37d28-5fc3-41a6-8122-be839efe6691)
 
 
 Blood Glucose Level Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/6c9f6fe3-e78d-4f4c-8504-a76b430e6473)
 
 
 Blood Glucose Level Box Plot
+![download](https://github.com/madegde/Prediksi/assets/73327109/820aab5f-3d9f-44d7-a3d4-681276681ca2)
 
 
 Gender Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/b656f4fd-5244-4b9a-88fa-aada77d0077e)
 
 
 Hypertension Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/3a4fa185-f3c5-4e82-b8eb-d63bba1ffdc2)
 
 
 Heart Disease Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/ae1a54e1-9222-4c49-b255-d46997fc3c7d)
 
 
 Smoking History Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/84532cde-99f7-4797-8fa5-fe9fdf3de89a)
 
 
 Diabetes Distribution
+![download](https://github.com/madegde/Prediksi/assets/73327109/4d193b93-9f78-492a-9929-8580a3035ef0)
 
 
 Diabetes and Age
+![download](https://github.com/madegde/Prediksi/assets/73327109/77fa4496-8a69-4792-8102-b4771b5c3f7a)
 
 
 Diabetes and BMI
+![download](https://github.com/madegde/Prediksi/assets/73327109/a4ab3c45-ad25-48c5-a22f-44a8c998f299)
 
 
 Diabetes and Gender
+![download](https://github.com/madegde/Prediksi/assets/73327109/5336ca52-afd5-4bf0-be86-e4c6c04e7576)
+![download](https://github.com/madegde/Prediksi/assets/73327109/769363c1-722c-40d3-9832-4eb60ff504ea)
 
 
 Diabetes and HbA1c_level
+![download](https://github.com/madegde/Prediksi/assets/73327109/ddb77d1f-4495-4e2f-9aab-59df82a49c77)
+![download](https://github.com/madegde/Prediksi/assets/73327109/8829f2b7-b0e4-4aa2-9372-93e24cec4272)
 
 
 Diabetes and Blood Glucose Level
+![download](https://github.com/madegde/Prediksi/assets/73327109/cd3da135-8062-48c1-9f22-485e3c935c7c)
+![download](https://github.com/madegde/Prediksi/assets/73327109/43701232-9f4b-4726-a449-c9e291d46407)
 
 
 Pair Plot for Numeric Features
+![download](https://github.com/madegde/Prediksi/assets/73327109/06754947-7e37-42f9-a784-c7fca9f03e2c)
 
 
 Diabetes, BMI, and Age
+![download](https://github.com/madegde/Prediksi/assets/73327109/95e497e8-fd9d-4a88-b923-2b767ba6a927)
 
 
 Correlation Matrix
+![download](https://github.com/madegde/Prediksi/assets/73327109/87ed2643-c20d-4b8f-80b2-809577faa1b1)
 
 
 Correlation with Diabetes
+![download](https://github.com/madegde/Prediksi/assets/73327109/0f6f782c-078e-4373-af7e-994bcb7e85a5)
 
 
 **StandardScaler Parameter**
@@ -378,19 +402,25 @@ max_samples should be in the interval (0.0, 1.0].
 
 
 Plot accuracy score for each algorithm
+![download](https://github.com/madegde/Prediksi/assets/73327109/263800e9-9072-4d1d-a7f7-5360f9fcefa1)
 
 
 Confusion Matrix RF
+![download](https://github.com/madegde/Prediksi/assets/73327109/b6c2569d-298e-48f4-9e96-02a227d05da3)
 
 
 Confusion Matrix XGB
+![download](https://github.com/madegde/Prediksi/assets/73327109/8485a88a-da26-48b9-a9f3-cfae1bcff360)
 
 
 Hyperparameters Tuning Results
+![download](https://github.com/madegde/Prediksi/assets/73327109/7591aa6e-93ea-4f01-8a9c-d6462845f23e)
 
 
 Confusion Matrix
+![download](https://github.com/madegde/Prediksi/assets/73327109/6d6a90af-1bbc-4da5-aa30-0a4226a729d8)
 
 
 Feature Importances
+![download](https://github.com/madegde/Prediksi/assets/73327109/aba053cb-0612-4bbe-a271-ae9c6229aaa2)
 
